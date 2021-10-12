@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4a5a700-351b-4129-a581-a8951bead979" name="Changes" comment="master">
-      <change afterPath="$PROJECT_DIR$/vue_shop/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_shop/src/pages/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue_shop/src/assets/heima.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue_shop/src/pages/Welcome.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_shop/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_shop/src/assets/css/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/vue_shop/src/assets/css/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_shop/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_shop/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_shop/src/pages/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue_shop/src/pages/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_shop/src/plugins/element.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_shop/src/plugins/element.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue_shop/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_shop/src/router/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +61,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\learning\web\Project\test\vue_shop\src\components" />
       <recent name="E:\learning\web\Project\test\vue_shop\src\assets" />
     </key>
   </component>
@@ -69,7 +75,10 @@
       <updated>1633671539910</updated>
       <workItem from="1633671541717" duration="12891000" />
       <workItem from="1633692063553" duration="2844000" />
-      <workItem from="1633837784611" duration="405000" />
+      <workItem from="1633837784611" duration="26090000" />
+      <workItem from="1633870649881" duration="526000" />
+      <workItem from="1633871181443" duration="1262000" />
+      <workItem from="1633998158299" duration="7813000" />
     </task>
     <task id="LOCAL-00001" summary="login">
       <created>1633690102777</created>
@@ -92,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633692104187</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="master">
+      <created>1633838272300</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1633838272300</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
