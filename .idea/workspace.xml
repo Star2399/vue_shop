@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4a5a700-351b-4129-a581-a8951bead979" name="Changes" comment="master">
+    <list default="true" id="c4a5a700-351b-4129-a581-a8951bead979" name="Changes" comment="完成了权限功能开发">
       <change afterPath="$PROJECT_DIR$/vue_shop/src/assets/heima.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/vue_shop/src/pages/Welcome.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -86,7 +86,7 @@
       <workItem from="1635044030188" duration="14746000" />
       <workItem from="1635077504697" duration="3253000" />
       <workItem from="1635085161705" duration="105000" />
-      <workItem from="1635125021016" duration="9415000" />
+      <workItem from="1635125021016" duration="10152000" />
     </task>
     <task id="LOCAL-00001" summary="login">
       <created>1633690102777</created>
@@ -137,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634008885679</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="master">
+      <created>1635146637821</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1635146637821</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +165,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="login" />
     <MESSAGE value="master" />
-    <option name="LAST_COMMIT_MESSAGE" value="master" />
+    <MESSAGE value="完成了权限功能开发" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成了权限功能开发" />
   </component>
 </project>
